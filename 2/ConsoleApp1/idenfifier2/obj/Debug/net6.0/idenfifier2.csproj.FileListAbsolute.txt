@@ -1,0 +1,15 @@
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\bin\Debug\net6.0\idenfifier2.exe
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\bin\Debug\net6.0\idenfifier2.deps.json
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\bin\Debug\net6.0\idenfifier2.runtimeconfig.json
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\bin\Debug\net6.0\idenfifier2.dll
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\bin\Debug\net6.0\idenfifier2.pdb
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\obj\Debug\net6.0\idenfifier2.csproj.AssemblyReference.cache
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\obj\Debug\net6.0\idenfifier2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\obj\Debug\net6.0\idenfifier2.AssemblyInfoInputs.cache
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\obj\Debug\net6.0\idenfifier2.AssemblyInfo.cs
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\obj\Debug\net6.0\idenfifier2.csproj.CoreCompileInputs.cache
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\obj\Debug\net6.0\idenfifier2.dll
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\obj\Debug\net6.0\refint\idenfifier2.dll
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\obj\Debug\net6.0\idenfifier2.pdb
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\obj\Debug\net6.0\idenfifier2.genruntimeconfig.cache
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\idenfifier2\obj\Debug\net6.0\ref\idenfifier2.dll

@@ -1,0 +1,5 @@
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\constant\obj\Debug\net6.0\constant.csproj.AssemblyReference.cache
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\constant\obj\Debug\net6.0\constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\constant\obj\Debug\net6.0\constant.AssemblyInfoInputs.cache
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\constant\obj\Debug\net6.0\constant.AssemblyInfo.cs
+C:\Users\PHWStudio\Desktop\gongbu\2\ConsoleApp1\constant\obj\Debug\net6.0\constant.csproj.CoreCompileInputs.cache
