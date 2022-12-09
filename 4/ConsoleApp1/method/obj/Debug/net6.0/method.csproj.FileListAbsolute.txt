@@ -1,0 +1,15 @@
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\bin\Debug\net6.0\method.exe
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\bin\Debug\net6.0\method.deps.json
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\bin\Debug\net6.0\method.runtimeconfig.json
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\bin\Debug\net6.0\method.dll
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\bin\Debug\net6.0\method.pdb
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\obj\Debug\net6.0\method.csproj.AssemblyReference.cache
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\obj\Debug\net6.0\method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\obj\Debug\net6.0\method.AssemblyInfoInputs.cache
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\obj\Debug\net6.0\method.AssemblyInfo.cs
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\obj\Debug\net6.0\method.csproj.CoreCompileInputs.cache
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\obj\Debug\net6.0\method.dll
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\obj\Debug\net6.0\refint\method.dll
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\obj\Debug\net6.0\method.pdb
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\obj\Debug\net6.0\method.genruntimeconfig.cache
+C:\Users\tekim\Desktop\gongbu\4\ConsoleApp1\method\obj\Debug\net6.0\ref\method.dll
