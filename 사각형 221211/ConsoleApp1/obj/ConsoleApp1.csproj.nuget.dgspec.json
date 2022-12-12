@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\github\\vwxymx\\221208_수정v2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\tekim\\Desktop\\square 221211\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "E:\\github\\vwxymx\\221208_수정v2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\tekim\\Desktop\\square 221211\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\github\\vwxymx\\221208_수정v2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\tekim\\Desktop\\square 221211\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "E:\\github\\vwxymx\\221208_수정v2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\tekim\\Desktop\\square 221211\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\tekim\\.nuget\\packages\\",
-        "outputPath": "E:\\github\\vwxymx\\221208_수정v2\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\tekim\\Desktop\\square 221211\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tekim\\AppData\\Roaming\\NuGet\\NuGet.Config",
