@@ -1,0 +1,15 @@
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\obj\Debug\net6.0\RonlyField.csproj.AssemblyReference.cache
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\obj\Debug\net6.0\RonlyField.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\obj\Debug\net6.0\RonlyField.AssemblyInfoInputs.cache
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\obj\Debug\net6.0\RonlyField.AssemblyInfo.cs
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\obj\Debug\net6.0\RonlyField.csproj.CoreCompileInputs.cache
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\bin\Debug\net6.0\RonlyField.exe
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\bin\Debug\net6.0\RonlyField.deps.json
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\bin\Debug\net6.0\RonlyField.runtimeconfig.json
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\bin\Debug\net6.0\RonlyField.dll
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\bin\Debug\net6.0\RonlyField.pdb
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\obj\Debug\net6.0\RonlyField.dll
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\obj\Debug\net6.0\refint\RonlyField.dll
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\obj\Debug\net6.0\RonlyField.pdb
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\obj\Debug\net6.0\RonlyField.genruntimeconfig.cache
+C:\Users\tekim\Desktop\gongbu\5\ConsoleApp1\RonlyField\obj\Debug\net6.0\ref\RonlyField.dll
