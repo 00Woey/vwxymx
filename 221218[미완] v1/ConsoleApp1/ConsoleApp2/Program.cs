@@ -36,6 +36,7 @@
                     wdcnt++;
                 }
             }
+            wdcnt = fulltxt.Length - wdcnt;
             Console.WriteLine("단어수: " + wdcnt);
         }
     }
