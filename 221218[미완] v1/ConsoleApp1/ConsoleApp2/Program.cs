@@ -21,8 +21,9 @@
             for(int i = 0; i < rdtxt.Length; i++)
             {
                 linecnt++;
-                fulltxt += rdtxt[i];
+                fulltxt += rdtxt[i] + "\n";
             }
+            Console.WriteLine(fulltxt);
             Console.WriteLine("라인수: " + linecnt);
         }
 
