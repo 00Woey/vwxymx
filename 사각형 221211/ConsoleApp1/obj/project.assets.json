@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\github\\vwxymx\\사각형 221211\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\tekim\\Desktop\\사각형 221211\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "E:\\github\\vwxymx\\사각형 221211\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\tekim\\Desktop\\사각형 221211\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\tekim\\.nuget\\packages\\",
-      "outputPath": "E:\\github\\vwxymx\\사각형 221211\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\tekim\\Desktop\\사각형 221211\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tekim\\AppData\\Roaming\\NuGet\\NuGet.Config",

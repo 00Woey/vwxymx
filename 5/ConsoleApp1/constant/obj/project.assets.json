@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\constant\\constant.csproj",
+      "projectUniqueName": "E:\\github\\vwxymx\\5\\ConsoleApp1\\constant\\constant.csproj",
       "projectName": "constant",
-      "projectPath": "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\constant\\constant.csproj",
+      "projectPath": "E:\\github\\vwxymx\\5\\ConsoleApp1\\constant\\constant.csproj",
       "packagesPath": "C:\\Users\\tekim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\constant\\obj\\",
+      "outputPath": "E:\\github\\vwxymx\\5\\ConsoleApp1\\constant\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tekim\\AppData\\Roaming\\NuGet\\NuGet.Config",

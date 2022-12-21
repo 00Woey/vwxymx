@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\ConsoleApp1\\Index.csproj",
+      "projectUniqueName": "E:\\github\\vwxymx\\5\\ConsoleApp1\\ConsoleApp1\\Index.csproj",
       "projectName": "Index",
-      "projectPath": "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\ConsoleApp1\\Index.csproj",
+      "projectPath": "E:\\github\\vwxymx\\5\\ConsoleApp1\\ConsoleApp1\\Index.csproj",
       "packagesPath": "C:\\Users\\tekim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "E:\\github\\vwxymx\\5\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tekim\\AppData\\Roaming\\NuGet\\NuGet.Config",

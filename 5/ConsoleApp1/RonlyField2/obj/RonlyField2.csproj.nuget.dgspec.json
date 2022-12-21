@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\RonlyField2\\RonlyField2.csproj": {}
+    "E:\\github\\vwxymx\\5\\ConsoleApp1\\RonlyField2\\RonlyField2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\RonlyField2\\RonlyField2.csproj": {
+    "E:\\github\\vwxymx\\5\\ConsoleApp1\\RonlyField2\\RonlyField2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\RonlyField2\\RonlyField2.csproj",
+        "projectUniqueName": "E:\\github\\vwxymx\\5\\ConsoleApp1\\RonlyField2\\RonlyField2.csproj",
         "projectName": "RonlyField2",
-        "projectPath": "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\RonlyField2\\RonlyField2.csproj",
+        "projectPath": "E:\\github\\vwxymx\\5\\ConsoleApp1\\RonlyField2\\RonlyField2.csproj",
         "packagesPath": "C:\\Users\\tekim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\RonlyField2\\obj\\",
+        "outputPath": "E:\\github\\vwxymx\\5\\ConsoleApp1\\RonlyField2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tekim\\AppData\\Roaming\\NuGet\\NuGet.Config",

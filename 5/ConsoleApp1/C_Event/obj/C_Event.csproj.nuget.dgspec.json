@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\C_Event\\C_Event.csproj": {}
+    "E:\\github\\vwxymx\\5\\ConsoleApp1\\C_Event\\C_Event.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\C_Event\\C_Event.csproj": {
+    "E:\\github\\vwxymx\\5\\ConsoleApp1\\C_Event\\C_Event.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\C_Event\\C_Event.csproj",
+        "projectUniqueName": "E:\\github\\vwxymx\\5\\ConsoleApp1\\C_Event\\C_Event.csproj",
         "projectName": "C_Event",
-        "projectPath": "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\C_Event\\C_Event.csproj",
+        "projectPath": "E:\\github\\vwxymx\\5\\ConsoleApp1\\C_Event\\C_Event.csproj",
         "packagesPath": "C:\\Users\\tekim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tekim\\Desktop\\gongbu\\5\\ConsoleApp1\\C_Event\\obj\\",
+        "outputPath": "E:\\github\\vwxymx\\5\\ConsoleApp1\\C_Event\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tekim\\AppData\\Roaming\\NuGet\\NuGet.Config",

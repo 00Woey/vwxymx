@@ -7,6 +7,7 @@
             Txttext rdtxt = new Txttext();
             rdtxt.wordcnt(); //단어수
             rdtxt.wordrate(); //단어별 빈도
+            rdtxt.alpharate(); //알파벳별 빈도
         }
     }
 
@@ -46,7 +47,7 @@
                 }
             }
             //wdcnt = fulltxt.Length - wdcnt;
-            Console.WriteLine("단어수: " + (wdcnt+1));
+            //Console.WriteLine("단어수: " + (wdcnt+1));
         }
 
         public void wordrate()
@@ -62,6 +63,26 @@
                  }
              }
             Console.WriteLine(searchwd + " 단어수: " + (swdcnt));
+        }
+
+        public void alpharate()
+        {
+            int[] alp = new int[26]; //알파벳 개수 A-Z
+            char resultalp;
+            for (int c = 0; c < fulltxt.Length; c++) //알파벳
+            {
+                for (int d = 0; d < 26; d++)
+                {
+                    if (fulltxt[d] == char(65+i))
+                    {
+                        alp[d] = alp[d] + 1;
+                    }
+                }
+            }
+            for (int e = 0; e < 26; e++)
+            {
+                Console.WriteLine(char(65 + i) + "빈도수: " + alp[e]);
+            }
         }
     }
 
